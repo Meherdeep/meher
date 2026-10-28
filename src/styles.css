@@ -1,0 +1,54 @@
+html{scroll-behavior:smooth}
+body{margin:0;background:#FFFFFF;color:#141313;font-family:Arial,'Helvetica Neue',Helvetica,sans-serif;-webkit-font-smoothing:antialiased}
+a{color:#141313;text-decoration:none}
+a:hover{color:#3375CA}
+::selection{background:#3375CA;color:#FFFFFF}
+
+[data-theme="clean"], [data-theme="clean"] *{font-family:-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,Arial,sans-serif !important;-webkit-font-smoothing:antialiased}
+[data-theme="clean"] h1,[data-theme="clean"] h2,[data-theme="clean"] h3{font-weight:600 !important;letter-spacing:-0.035em !important}
+[data-theme="clean"] h1{line-height:1.04 !important}
+[data-theme="clean"] p{letter-spacing:-0.01em}
+[data-theme="clean"] [style*="text-transform: uppercase"]{text-transform:none !important;letter-spacing:-0.01em !important;font-size:17px !important;font-weight:600 !important}
+[data-theme="clean"] [style*="color: rgb(51, 117, 202)"]{color:#0B6BDE !important}
+[data-theme="clean"] [style*="color: rgb(141, 180, 234)"]{color:#6CB2FF !important}
+[data-theme="clean"] [style*="background: rgb(20, 19, 19)"]:not(button):not(a):not(span){background:#000000 !important}
+[data-theme="clean"] section[style*="background: rgb(248, 248, 248)"]{background:#F5F5F7 !important;border:0 !important}
+[data-theme="clean"] article[style*="border-radius: 4px"]{border:0 !important;border-radius:24px !important;background:#FFFFFF !important;padding:36px !important;box-shadow:0 2px 12px rgba(0,0,0,0.04)}
+[data-theme="clean"] a[style*="border-radius: 999px"],[data-theme="clean"] button[style*="border-radius: 999px"]{border-radius:980px !important}
+[data-theme="clean"] a[href="#work"][style*="border-radius: 999px"]{background:#0B6BDE !important;color:#FFFFFF !important}
+[data-theme="clean"] a[href="#contact"][style*="border-radius: 999px"]{background:#0B6BDE !important;border-color:#0B6BDE !important;color:#FFFFFF !important}
+[data-theme="clean"] header{background:rgba(255,255,255,0.72) !important;backdrop-filter:saturate(180%) blur(20px) !important}
+[data-theme="clean"] [style*="border-radius: 16px"]{border-radius:28px !important}
+[data-theme="clean"] section[id="capabilities"] [style*="border-top: 1px solid rgb(20, 19, 19)"],[data-theme="clean"] #now [style*="border-top: 1px solid rgb(20, 19, 19)"],[data-theme="clean"] #experience [style*="border-top: 1px solid rgb(20, 19, 19)"]{border-top-color:#D2D2D7 !important}
+
+.dch1:hover{background:#141313 !important;color:#FFFFFF !important}
+.dch2:hover{background:#3375CA !important;color:#FFFFFF !important}
+.dch3:hover{border-color:#141313 !important}
+.dch4:hover{color:#3375CA !important}
+.dch5:hover{background:#3375CA !important;border-color:#3375CA !important;color:#FFFFFF !important}
+.dch6:hover{background:#3375CA !important;border-color:#3375CA !important;color:#FFFFFF !important}
+.dch7:hover{background:#3375CA !important;border-color:#3375CA !important;color:#FFFFFF !important}
+.dch8:hover{background:#3375CA !important;border-color:#3375CA !important;color:#FFFFFF !important}
+.dch9:hover{background:#3375CA !important;border-color:#3375CA !important;color:#FFFFFF !important}
+.dch10:hover{background:#3375CA !important;border-color:#3375CA !important;color:#FFFFFF !important}
+.dch11:hover{background:#3375CA !important;border-color:#3375CA !important;color:#FFFFFF !important}
+.dch12:hover{background:#3375CA !important;border-color:#3375CA !important;color:#FFFFFF !important}
+.dch13:hover{background:#3375CA !important;border-color:#3375CA !important;color:#FFFFFF !important}
+.dch14:hover{background:#3375CA !important;border-color:#3375CA !important;color:#FFFFFF !important}
+.dch15:hover{background:#3375CA !important;border-color:#3375CA !important;color:#FFFFFF !important}
+.dch16:hover{background:#3375CA !important;border-color:#3375CA !important;color:#FFFFFF !important}
+.dch17:hover{background:#3375CA !important;border-color:#3375CA !important;color:#FFFFFF !important}
+.dch18:hover{background:#3375CA !important;border-color:#3375CA !important;color:#FFFFFF !important}
+.dch19:hover{background:#3375CA !important;border-color:#3375CA !important;color:#FFFFFF !important}
+.dch20:hover{background:#3375CA !important;border-color:#3375CA !important;color:#FFFFFF !important}
+.dch21:hover{background:#3375CA !important;border-color:#3375CA !important;color:#FFFFFF !important}
+.dch22:hover{background:#3375CA !important;border-color:#3375CA !important;color:#FFFFFF !important}
+.dch23:hover{background:#3375CA !important;border-color:#3375CA !important;color:#FFFFFF !important}
+.dch24:hover{background:#3375CA !important;border-color:#3375CA !important;color:#FFFFFF !important}
+.dch25:hover{background:#3375CA !important;border-color:#3375CA !important;color:#FFFFFF !important}
+.dch26:hover{background:#141313 !important;color:#FFFFFF !important}
+.dch27:hover{background:#141313 !important;color:#FFFFFF !important}
+.dch28:hover{color:#8DB4EA !important}
+.dch29:hover{color:#8DB4EA !important}
+.dch30:hover{color:#8DB4EA !important}
+.dch31:hover{color:#8DB4EA !important}
