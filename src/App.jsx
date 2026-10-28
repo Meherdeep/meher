@@ -395,7 +395,7 @@ class App extends React.Component {
                       <img src="assets/logo-agora-mark.png" alt="Agora logo" width="64" height="64" loading="lazy" decoding="async" style={{ width: "100%", height: "100%", objectFit: "contain", display: "block" }} />
                     </span>
                     <span style={{ fontFamily: "Arial,'Helvetica Neue',Helvetica,sans-serif", fontSize: "12px", color: "#A3A3A3", letterSpacing: "0.04em" }}>
-                      {"AGORA · PRODUCT MANAGER · 2024–25"}
+                      {"AGORA · PRODUCT MANAGER · 2021–25"}
                     </span>
                   </div>
                   <h3 style={{ margin: "0", fontFamily: "Arial,'Helvetica Neue',Helvetica,sans-serif", fontWeight: "700", fontSize: "clamp(26px,2.6vw,34px)", lineHeight: "1.15" }}>
